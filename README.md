@@ -14,7 +14,8 @@ open https://nodejs.org/en/download
 
 bin/mirror.sh --user p5name
 bin/build.sh --user jht1493
-bin/mirror.sh --user jht1493
+bin/p5projects-index.sh --user jht1493
+bin/mirror.sh --user jht1493 --limit 20
 
 ```
 
