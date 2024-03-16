@@ -1,0 +1,26 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  rect_trans();
+  translate(-50, 50);
+  rect_trans();
+  translate(-50, 50);
+  rect_trans();
+  translate(-50, 50);
+  rect_trans();
+  translate(-50, 50);
+  rect_trans();
+}
+
+
+function rect_trans() {
+  rect(0,0,50,50)
+  translate(50, 0);
+}
+
+
+// https://p5js.org/reference/#/p5/translate
+// translate(x, y, [z])

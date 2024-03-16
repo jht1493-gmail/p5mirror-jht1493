@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <h1>Sines, cosines, radians, circles</h1>
+    <p style="width: 500px;">Draw a line from the center of the circle to its edge at any angle. If the radius of the circle is 1 (the "unit circle"), you can determine the the X coordinate of the end of this line by calculating the <i>cosine</i> of the angle (<tt>cos(angle)</tt>). Likewise, you can determine the Y coordinate of the end of this line by calculating the <i>sine</i> of the angle (<tt>sin(angle)</tt>).</p>
+    <p style="width: 500px;">In animation and interactive programming, <tt>sin()</tt> and <tt>cos()</tt> are good ways to turn a value that linearly increases in value (like <tt>frameCount</tt>) into a value that oscillates.</p>
+    <div>
+      <input type="checkbox" id="interactive"> Interactive?
+    </div>
+    <script src="sketch.js"></script>
+  </body>
+</html>
