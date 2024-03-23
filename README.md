@@ -16,6 +16,8 @@ bin/mirror.sh --user p5name
 bin/build.sh --user jht1493
 bin/p5projects-index.sh --user jht1493
 bin/mirror.sh --user jht1493 --limit 20
+bin/build.sh --user jht1493 --check
+bin/mirror.sh --user jht1493 --update
 
 ```
 
