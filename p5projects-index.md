@@ -1311,6 +1311,7 @@
 - [thecity\_nyc-fade-e1WTKXUaI](./p5projects/thecity_nyc-fade-e1WTKXUaI) [[p5js](https://editor.p5js.org/jht1493/sketches/e1WTKXUaI)]
 - [timed motion text-ExTKDesTy](./p5projects/timed%20motion%20text-ExTKDesTy) [[p5js](https://editor.p5js.org/jht1493/sketches/ExTKDesTy)]
 - [timed-drawing copy-eV5XXhkWG](./p5projects/timed-drawing%20copy-eV5XXhkWG) [[p5js](https://editor.p5js.org/jht1493/sketches/eV5XXhkWG)]
+- [timed-drawing-eV5XXhkWG](./p5projects/timed-drawing-eV5XXhkWG) [[p5js](https://editor.p5js.org/jht1493/sketches/eV5XXhkWG)]
 - [tint-limit-byr-Byj9bTU-K](./p5projects/tint-limit-byr-Byj9bTU-K) [[p5js](https://editor.p5js.org/jht1493/sketches/Byj9bTU-K)]
 - [tint-red copy-r3Zc11p9E](./p5projects/tint-red%20copy-r3Zc11p9E) [[p5js](https://editor.p5js.org/jht1493/sketches/r3Zc11p9E)]
 - [tint-red-sHh0hUhNt](./p5projects/tint-red-sHh0hUhNt) [[p5js](https://editor.p5js.org/jht1493/sketches/sHh0hUhNt)]
