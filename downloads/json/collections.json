@@ -1,7 +1,7 @@
 [
   {
-    "name": "AA gswp5 01-03 Draw",
     "_id": "l4oMbMJ_u",
+    "name": "AA gswp5 01-03 Draw",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -13,8 +13,8 @@
       {
         "_id": "605c841de36f350024f50374",
         "project": {
-          "name": "Ex_02_01 Draw an Ellipse",
           "_id": "1jYHAXZRF",
+          "name": "Ex_02_01 Draw an Ellipse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -32,8 +32,8 @@
       {
         "_id": "605c843893f0b200246697c1",
         "project": {
-          "name": "Ex_02_02 Make Circles",
           "_id": "Cc8MICNun",
+          "name": "Ex_02_02 Make Circles",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -51,8 +51,8 @@
       {
         "_id": "605c8491b18ce1002011ef15",
         "project": {
-          "name": "Ex_03_99 Robot 1: Draw",
           "_id": "0EzMYSpky",
+          "name": "Ex_03_99 Robot 1: Draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -70,8 +70,8 @@
       {
         "_id": "605c84ace36f350024f50670",
         "project": {
-          "name": "Ex_03_04 quad tri",
           "_id": "4ru5A30iE",
+          "name": "Ex_03_04 quad tri",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -89,8 +89,8 @@
       {
         "_id": "605c8549b18ce1002011f37c",
         "project": {
-          "name": "Ex_03_06 circles touch",
           "_id": "R0o3EvVOC",
+          "name": "Ex_03_06 circles touch",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -108,8 +108,8 @@
       {
         "_id": "605c856c93f0b20024669d85",
         "project": {
-          "name": "Ex_03_09 arcs",
           "_id": "lj5UimD1G",
+          "name": "Ex_03_09 arcs",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -127,8 +127,8 @@
       {
         "_id": "605c8581b18ce1002011f52c",
         "project": {
-          "name": "Ex_03_17 alpha circles",
           "_id": "sxI2SjRrh",
+          "name": "Ex_03_17 alpha circles",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -146,8 +146,8 @@
       {
         "_id": "605c858ce36f350024f50c31",
         "project": {
-          "name": "Ex_03_19 beginShape",
           "_id": "xFElx4UBj",
+          "name": "Ex_03_19 beginShape",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -165,8 +165,8 @@
       {
         "_id": "605c859693f0b20024669e52",
         "project": {
-          "name": "Ex_03_20 Two Creatures",
           "_id": "mPX1b9278",
+          "name": "Ex_03_20 Two Creatures",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -188,8 +188,8 @@
     "id": "l4oMbMJ_u"
   },
   {
-    "name": "AA gswp5 04 Variables",
     "_id": "yH3IYcxzz",
+    "name": "AA gswp5 04 Variables",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -201,8 +201,8 @@
       {
         "_id": "606a4feae2d37d0024827ba6",
         "project": {
-          "name": "Ex_04_01 Reuse the Same Values",
           "_id": "jcN0Maxum",
+          "name": "Ex_04_01 Reuse the Same Values",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -220,8 +220,8 @@
       {
         "_id": "606a4ff52d20910024e9f8fb",
         "project": {
-          "name": "Ex_04_02 Change Values",
           "_id": "Y2Qra2W_N",
+          "name": "Ex_04_02 Change Values",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -239,8 +239,8 @@
       {
         "_id": "606a5000e2d37d0024827bd3",
         "project": {
-          "name": "Ex_04_03 Adjust the Canvas",
           "_id": "T4ufWkYjs",
+          "name": "Ex_04_03 Adjust the Canvas",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -258,8 +258,8 @@
       {
         "_id": "606a504a06c67d00244111aa",
         "project": {
-          "name": "Ex_04_04 Basic Arithmetic",
           "_id": "Eg01Z5WpY",
+          "name": "Ex_04_04 Basic Arithmetic",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -277,8 +277,8 @@
       {
         "_id": "606a50702d20910024e9fa4e",
         "project": {
-          "name": "Ex_04_05 Do the Same",
           "_id": "nUqcuwlY9",
+          "name": "Ex_04_05 Do the Same",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -296,8 +296,8 @@
       {
         "_id": "606a50a6e2d37d0024827d2a",
         "project": {
-          "name": "Ex_04_06 Use a for Loop",
           "_id": "h0eBcXsIC",
+          "name": "Ex_04_06 Use a for Loop",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -315,8 +315,8 @@
       {
         "_id": "606a50a906c67d0024411285",
         "project": {
-          "name": "Ex_04_07 Flex Your for Loop’s",
           "_id": "oVh1WhBVI",
+          "name": "Ex_04_07 Flex Your for Loop’s",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -334,8 +334,8 @@
       {
         "_id": "606a50abe2d37d0024827d2b",
         "project": {
-          "name": "Ex_04_08 Fanning Out the Lines",
           "_id": "Zxxj1cjH9",
+          "name": "Ex_04_08 Fanning Out the Lines",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -353,8 +353,8 @@
       {
         "_id": "606a50ad2d20910024e9fac2",
         "project": {
-          "name": "Ex_04_09 Kinking the Lines",
           "_id": "o_7ocEFZ8",
+          "name": "Ex_04_09 Kinking the Lines",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -372,8 +372,8 @@
       {
         "_id": "606a50af06c67d0024411297",
         "project": {
-          "name": "Ex_04_10 Embed for Loop",
           "_id": "bFe6Hk45R",
+          "name": "Ex_04_10 Embed for Loop",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -391,8 +391,8 @@
       {
         "_id": "606a50b0e2d37d0024827d5f",
         "project": {
-          "name": "Ex_04_11 Rows and Columns",
           "_id": "SemvF_Fht",
+          "name": "Ex_04_11 Rows and Columns",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -410,8 +410,8 @@
       {
         "_id": "606a50b22d20910024e9fac7",
         "project": {
-          "name": "Ex_04_12 Pins and Lines",
           "_id": "u15OM3OHP",
+          "name": "Ex_04_12 Pins and Lines",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -429,8 +429,8 @@
       {
         "_id": "606a50b32d20910024e9fac8",
         "project": {
-          "name": "Ex_04_13 Halftone Dots",
           "_id": "GO50HlzHN",
+          "name": "Ex_04_13 Halftone Dots",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -448,8 +448,8 @@
       {
         "_id": "606a50cd2d20910024e9fb27",
         "project": {
-          "name": "Ex_04_99 Robot 2: Variables",
           "_id": "mJ_X4q47O",
+          "name": "Ex_04_99 Robot 2: Variables",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -467,8 +467,8 @@
       {
         "_id": "606a50d906c67d00244112fc",
         "project": {
-          "name": "Ex_04_99 Robot 2: Variable func",
           "_id": "cyyCJGXOz",
+          "name": "Ex_04_99 Robot 2: Variable func",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -486,8 +486,8 @@
       {
         "_id": "606a50e406c67d0024411313",
         "project": {
-          "name": "Ex_04_99 Robot 2: func jiggle",
           "_id": "D3QUVpQhx",
+          "name": "Ex_04_99 Robot 2: func jiggle",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -509,8 +509,8 @@
     "id": "yH3IYcxzz"
   },
   {
-    "name": "AA gswp5 05 Response",
     "_id": "u8b97q_m7",
+    "name": "AA gswp5 05 Response",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -522,8 +522,8 @@
       {
         "_id": "60691b4422c8410020c9a6fe",
         "project": {
-          "name": "Ex_05_01 frameCount",
           "_id": "QrE5pO6E9",
+          "name": "Ex_05_01 frameCount",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -541,8 +541,8 @@
       {
         "_id": "60693700b6daa0002493b2f2",
         "project": {
-          "name": "Ex_05_02 setup draw",
           "_id": "rts0Rja8o",
+          "name": "Ex_05_02 setup draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -560,8 +560,8 @@
       {
         "_id": "6069370290da6b00200a2144",
         "project": {
-          "name": "Ex_05_03 setup, Meet draw",
           "_id": "T04uHthwa",
+          "name": "Ex_05_03 setup, Meet draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -579,8 +579,8 @@
       {
         "_id": "60693703b6daa0002493b2f3",
         "project": {
-          "name": "Ex_05_04 Track the Mouse",
           "_id": "4pysTdayc",
+          "name": "Ex_05_04 Track the Mouse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -598,8 +598,8 @@
       {
         "_id": "6069370490da6b00200a214d",
         "project": {
-          "name": "Ex_05_05  The Dot Follows You",
           "_id": "rc_stJwOF",
+          "name": "Ex_05_05  The Dot Follows You",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -617,8 +617,8 @@
       {
         "_id": "6069370b22c8410020c9e306",
         "project": {
-          "name": "Ex_05_06 Draw Continuously",
           "_id": "d2VusUGT4",
+          "name": "Ex_05_06 Draw Continuously",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -636,8 +636,8 @@
       {
         "_id": "6069370c22c8410020c9e307",
         "project": {
-          "name": "Ex_05_07 Set Thickness on the Fly",
           "_id": "H9EaSl2Sh",
+          "name": "Ex_05_07 Set Thickness on the Fly",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -655,8 +655,8 @@
       {
         "_id": "6069370e90da6b00200a214e",
         "project": {
-          "name": "Ex_05_08 Easing Does It",
           "_id": "kdszl3wkF",
+          "name": "Ex_05_08 Easing Does It",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -674,8 +674,8 @@
       {
         "_id": "6069370fb6daa0002493b343",
         "project": {
-          "name": "Ex_05_09 Smooth Lines with Easing",
           "_id": "TZ5FwWXoW",
+          "name": "Ex_05_09 Smooth Lines with Easing",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -693,8 +693,8 @@
       {
         "_id": "60693710b6daa0002493b344",
         "project": {
-          "name": "Ex_05_10 Click the Mouse",
           "_id": "ptw9C5yOQ",
+          "name": "Ex_05_10 Click the Mouse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -712,8 +712,8 @@
       {
         "_id": "60693711b6daa0002493b345",
         "project": {
-          "name": "Ex_05_11 Detect When Not Clicked",
           "_id": "hV0JF0uwo",
+          "name": "Ex_05_11 Detect When Not Clicked",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -731,8 +731,8 @@
       {
         "_id": "60693719b6daa0002493b34a",
         "project": {
-          "name": "Ex_05_12 Multiple Mouse Buttons",
           "_id": "PQdxi8L_T",
+          "name": "Ex_05_12 Multiple Mouse Buttons",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -750,8 +750,8 @@
       {
         "_id": "6069371ab6daa0002493b34b",
         "project": {
-          "name": "Ex_05_13 Find the Cursor",
           "_id": "Im7tJDFJM",
+          "name": "Ex_05_13 Find the Cursor",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -769,8 +769,8 @@
       {
         "_id": "6069371cb6daa0002493b350",
         "project": {
-          "name": "Ex_05_14 The Bounds of a Circle",
           "_id": "tPX6MmuEk",
+          "name": "Ex_05_14 The Bounds of a Circle",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -788,8 +788,8 @@
       {
         "_id": "6069371d90da6b00200a2178",
         "project": {
-          "name": "Ex_05_14 The Bounds of a Circle pulse",
           "_id": "nPTnXZD3c",
+          "name": "Ex_05_14 The Bounds of a Circle pulse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -807,8 +807,8 @@
       {
         "_id": "6069371e90da6b00200a2179",
         "project": {
-          "name": "Ex_05_15 The Bounds of a Rectangle",
           "_id": "MV2Ifxtaz",
+          "name": "Ex_05_15 The Bounds of a Rectangle",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -826,8 +826,8 @@
       {
         "_id": "6069371f90da6b00200a217a",
         "project": {
-          "name": "Ex_05_16 Tap a Key",
           "_id": "UNsRwHJVQ",
+          "name": "Ex_05_16 Tap a Key",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -845,8 +845,8 @@
       {
         "_id": "6069372422c8410020c9e346",
         "project": {
-          "name": "Ex_05_17 Draw Some Letters",
           "_id": "vdHJ835F4",
+          "name": "Ex_05_17 Draw Some Letters",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -864,8 +864,8 @@
       {
         "_id": "60693725b6daa0002493b3a7",
         "project": {
-          "name": "Ex_05_18 Check for Specific Keys",
           "_id": "HQ4rz3iDt",
+          "name": "Ex_05_18 Check for Specific Keys",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -883,8 +883,8 @@
       {
         "_id": "6069372622c8410020c9e347",
         "project": {
-          "name": "Ex_05_19 Move with Arrow Keys",
           "_id": "kbaJEPxF5",
+          "name": "Ex_05_19 Move with Arrow Keys",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -902,8 +902,8 @@
       {
         "_id": "6069372890da6b00200a2195",
         "project": {
-          "name": "Ex_05_20 Touch the Screen",
           "_id": "ZnKfzbW_c",
+          "name": "Ex_05_20 Touch the Screen",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -921,8 +921,8 @@
       {
         "_id": "6069372922c8410020c9e353",
         "project": {
-          "name": "Ex_05_21 Track the Finger",
           "_id": "yh4waikxd",
+          "name": "Ex_05_21 Track the Finger",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -940,8 +940,8 @@
       {
         "_id": "6069372ab6daa0002493b3b0",
         "project": {
-          "name": "Ex_05_22 Map Values to a Range",
           "_id": "BglFnxl3U",
+          "name": "Ex_05_22 Map Values to a Range",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -959,8 +959,8 @@
       {
         "_id": "6069372e90da6b00200a219b",
         "project": {
-          "name": "Ex_05_23 Map with the map Function",
           "_id": "AtqCFY7CC",
+          "name": "Ex_05_23 Map with the map Function",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -978,8 +978,8 @@
       {
         "_id": "60693ba622c8410020c9ecee",
         "project": {
-          "name": "Ex_05_99 Robot03_Response",
           "_id": "sWEVGT4bm",
+          "name": "Ex_05_99 Robot03_Response",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1001,8 +1001,8 @@
     "id": "u8b97q_m7"
   },
   {
-    "name": "AA gswp5 06 Translate",
     "_id": "LyMXjpqPV",
+    "name": "AA gswp5 06 Translate",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1014,8 +1014,8 @@
       {
         "_id": "605ce9d31214c20020571941",
         "project": {
-          "name": "Ex_06_01 Translating Location",
           "_id": "P2GfFz2Jv",
+          "name": "Ex_06_01 Translating Location",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1033,8 +1033,8 @@
       {
         "_id": "605ceabc1214c20020571b9a",
         "project": {
-          "name": "Ex_06_02 Multiple Translations",
           "_id": "aNTyhkTAp",
+          "name": "Ex_06_02 Multiple Translations",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1052,8 +1052,8 @@
       {
         "_id": "605ceb5e01d1f10024daf337",
         "project": {
-          "name": "Ex_06_03 Corner Rotation",
           "_id": "7tw-3XmNx",
+          "name": "Ex_06_03 Corner Rotation",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1071,8 +1071,8 @@
       {
         "_id": "605cebf1148bf800202b893f",
         "project": {
-          "name": "Ex_06_04 Center Rotation",
           "_id": "-K5nIPw-O",
+          "name": "Ex_06_04 Center Rotation",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1090,8 +1090,8 @@
       {
         "_id": "605ceca5148bf800202b8be4",
         "project": {
-          "name": "Ex_06_05 Translation Rotation",
           "_id": "dIUreb8Fc",
+          "name": "Ex_06_05 Translation Rotation",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1109,8 +1109,8 @@
       {
         "_id": "605cee3e1214c2002057275a",
         "project": {
-          "name": "Ex_06_06 Rotation Translation",
           "_id": "f61txC7KZ",
+          "name": "Ex_06_06 Rotation Translation",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1128,8 +1128,8 @@
       {
         "_id": "605cef0001d1f10024db01d1",
         "project": {
-          "name": "Ex_06_07 Articulating Arm",
           "_id": "NqUbfaE2H",
+          "name": "Ex_06_07 Articulating Arm",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1147,8 +1147,8 @@
       {
         "_id": "605cef8501d1f10024db0384",
         "project": {
-          "name": "Ex_06_08 Scaling",
           "_id": "TSDh4otF5",
+          "name": "Ex_06_08 Scaling",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1166,8 +1166,8 @@
       {
         "_id": "605cf1261214c20020573206",
         "project": {
-          "name": "Ex_06_09 Strokes Consistent",
           "_id": "Iy6KGB3Wf",
+          "name": "Ex_06_09 Strokes Consistent",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1185,8 +1185,8 @@
       {
         "_id": "605cf14301d1f10024db0988",
         "project": {
-          "name": "Ex_06_10 Isolating Transformations",
           "_id": "6vFu9X3jD",
+          "name": "Ex_06_10 Isolating Transformations",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1204,8 +1204,8 @@
       {
         "_id": "605cf1f31214c20020573511",
         "project": {
-          "name": "Ex_06_99 Robot 4: Translate",
           "_id": "yGDQyWCf7",
+          "name": "Ex_06_99 Robot 4: Translate",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1227,8 +1227,8 @@
     "id": "LyMXjpqPV"
   },
   {
-    "name": "AA gswp5 08 Motion",
     "_id": "a0FX7oZfY",
+    "name": "AA gswp5 08 Motion",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1240,8 +1240,8 @@
       {
         "_id": "605ccddfd761350020ee5cb0",
         "project": {
-          "name": "Ex_08_03 Move a Shape",
           "_id": "DJ99paBR7",
+          "name": "Ex_08_03 Move a Shape",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1259,8 +1259,8 @@
       {
         "_id": "605ccde701d1f10024da826b",
         "project": {
-          "name": "Ex_08_04 Wrap Around",
           "_id": "W_nCg2LI2",
+          "name": "Ex_08_04 Wrap Around",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1278,8 +1278,8 @@
       {
         "_id": "605ccf1e01d1f10024da87b0",
         "project": {
-          "name": "Ex_08_05 Bounce Off the Wall",
           "_id": "wJCzyVzBm",
+          "name": "Ex_08_05 Bounce Off the Wall",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1297,8 +1297,8 @@
       {
         "_id": "605cd93e1214c2002056e0a6",
         "project": {
-          "name": "Ex_08_06 Tween",
           "_id": "vJUCok9aU",
+          "name": "Ex_08_06 Tween",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1316,8 +1316,8 @@
       {
         "_id": "605cdbc901d1f10024dabe09",
         "project": {
-          "name": "Ex_08_08 Draw Randomly",
           "_id": "SmFX6Ioj_",
+          "name": "Ex_08_08 Draw Randomly",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1335,8 +1335,8 @@
       {
         "_id": "605cdc9b01d1f10024dac132",
         "project": {
-          "name": "Ex_08_09 Move Shapes Randomly",
           "_id": "YjFnLREL7",
+          "name": "Ex_08_09 Move Shapes Randomly",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1354,8 +1354,8 @@
       {
         "_id": "605cddc8148bf800202b563b",
         "project": {
-          "name": "Ex_08_10 Time Passes",
           "_id": "BoVBnl443",
+          "name": "Ex_08_10 Time Passes",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1373,8 +1373,8 @@
       {
         "_id": "605cde521214c2002056f3de",
         "project": {
-          "name": "Ex_08_11 Triggering Timed",
           "_id": "xADLvN6tz",
+          "name": "Ex_08_11 Triggering Timed",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1392,8 +1392,8 @@
       {
         "_id": "605cdf0a148bf800202b5c53",
         "project": {
-          "name": "Ex_08_12 Sine Wave Values",
           "_id": "B4P8dpKW5",
+          "name": "Ex_08_12 Sine Wave Values",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1411,8 +1411,8 @@
       {
         "_id": "605cdf8f1214c2002056f87d",
         "project": {
-          "name": "Ex_08_13 Sine Wave",
           "_id": "U80HMnJYf",
+          "name": "Ex_08_13 Sine Wave",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1430,8 +1430,8 @@
       {
         "_id": "605ce092148bf800202b625d",
         "project": {
-          "name": "Ex_08_14 Circular Motion",
           "_id": "0IZtaK_fH",
+          "name": "Ex_08_14 Circular Motion",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1449,8 +1449,8 @@
       {
         "_id": "605ce1ee148bf800202b6747",
         "project": {
-          "name": "Ex_08_15 Spirals",
           "_id": "nAiwy2Qte",
+          "name": "Ex_08_15 Spirals",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1468,8 +1468,8 @@
       {
         "_id": "605ce2ac1214c200205701be",
         "project": {
-          "name": "Ex_08_99 Robot06_Motion",
           "_id": "GD_kzWHeR",
+          "name": "Ex_08_99 Robot06_Motion",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1491,8 +1491,8 @@
     "id": "a0FX7oZfY"
   },
   {
-    "name": "AA gswp5 09 Functions",
     "_id": "RNo3VMponN",
+    "name": "AA gswp5 09 Functions",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1504,8 +1504,8 @@
       {
         "_id": "606a879bb1cb300024571040",
         "project": {
-          "name": "Ex_09_01 Roll the Dice",
           "_id": "uetaqd2FH",
+          "name": "Ex_09_01 Roll the Dice",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1523,8 +1523,8 @@
       {
         "_id": "606a879d2d20910024eaa0e4",
         "project": {
-          "name": "Ex_09_02 Another Way",
           "_id": "oK-w6sUbz",
+          "name": "Ex_09_02 Another Way",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1542,8 +1542,8 @@
       {
         "_id": "606a879ee2d37d0024831a25",
         "project": {
-          "name": "Ex_09_03 Draw the Owl",
           "_id": "DdDo_LBJa",
+          "name": "Ex_09_03 Draw the Owl",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1561,8 +1561,8 @@
       {
         "_id": "606a879fe2d37d0024831a2a",
         "project": {
-          "name": "Ex_09_04 Two’s Company",
           "_id": "sa96pUoKH",
+          "name": "Ex_09_04 Two’s Company",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1580,8 +1580,8 @@
       {
         "_id": "606a87a12d20910024eaa0f7",
         "project": {
-          "name": "Ex_09_05 An Owl Function",
           "_id": "NAl5YSdTI_",
+          "name": "Ex_09_05 An Owl Function",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1599,8 +1599,8 @@
       {
         "_id": "606a87a22d20910024eaa0fc",
         "project": {
-          "name": "Ex_09_06 Increasing the Surplus Population",
           "_id": "AVYN7MUVc",
+          "name": "Ex_09_06 Increasing the Surplus Population",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1618,8 +1618,8 @@
       {
         "_id": "606a87a3b1cb300024571041",
         "project": {
-          "name": "Ex_09_07 Owls of Different Sizes",
           "_id": "45Cv8Gi4i",
+          "name": "Ex_09_07 Owls of Different Sizes",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1637,8 +1637,8 @@
       {
         "_id": "606a87a5e2d37d0024831a30",
         "project": {
-          "name": "Ex_09_08 Return a Value",
           "_id": "xAc-jbG9y",
+          "name": "Ex_09_08 Return a Value",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1656,8 +1656,8 @@
       {
         "_id": "6077db51d2acd60024274890",
         "project": {
-          "name": "Ex_09_99 Robot Function",
           "_id": "7QXYp9M8Z",
+          "name": "Ex_09_99 Robot Function",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1679,8 +1679,8 @@
     "id": "RNo3VMponN"
   },
   {
-    "name": "AA gswp5 10 Objects",
     "_id": "Un1cgr7lW",
+    "name": "AA gswp5 10 Objects",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1692,8 +1692,8 @@
       {
         "_id": "6077c0365635b5002410ddd0",
         "project": {
-          "name": "Ex_10_01 Make an Object",
           "_id": "ls9cxovWM",
+          "name": "Ex_10_01 Make an Object",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1711,8 +1711,8 @@
       {
         "_id": "6077c0385635b5002410ddd9",
         "project": {
-          "name": "Ex_10_02 Make Multiple Objects",
           "_id": "K7PhkMWVi",
+          "name": "Ex_10_02 Make Multiple Objects",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1730,8 +1730,8 @@
       {
         "_id": "6077e27bd2acd60024275b55",
         "project": {
-          "name": "Ex_10_99 Robot Object",
           "_id": "8s8si6CU9",
+          "name": "Ex_10_99 Robot Object",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1753,8 +1753,8 @@
     "id": "Un1cgr7lW"
   },
   {
-    "name": "AA gswp5 11 Arrays",
     "_id": "GdOUniOjF",
+    "name": "AA gswp5 11 Arrays",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1766,8 +1766,8 @@
       {
         "_id": "6077d08c87eec20024b2c44e",
         "project": {
-          "name": "Ex_11_01 Many Variables",
           "_id": "W26Y1uuiu",
+          "name": "Ex_11_01 Many Variables",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1785,8 +1785,8 @@
       {
         "_id": "6077d08d87eec20024b2c44f",
         "project": {
-          "name": "Ex_11_02 Too Many Variables",
           "_id": "WNdXMzR_Q",
+          "name": "Ex_11_02 Too Many Variables",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1804,8 +1804,8 @@
       {
         "_id": "6077d08e5635b50024111645",
         "project": {
-          "name": "Ex_11_03 Arrays, Not Variables",
           "_id": "mJyTluseZ",
+          "name": "Ex_11_03 Arrays, Not Variables",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1823,8 +1823,8 @@
       {
         "_id": "6077d08f87eec20024b2c455",
         "project": {
-          "name": "Ex_11_04 Declare and Assign an Array",
           "_id": "FghpP9uDR",
+          "name": "Ex_11_04 Declare and Assign an Array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1842,8 +1842,8 @@
       {
         "_id": "6077d09025160a0024eee2f4",
         "project": {
-          "name": "Ex_11_05 Assigning to an Array in One Go",
           "_id": "n3apYawMJ",
+          "name": "Ex_11_05 Assigning to an Array in One Go",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1861,8 +1861,8 @@
       {
         "_id": "6077d09287eec20024b2c46b",
         "project": {
-          "name": "Ex_11_06 Revisiting the First Example",
           "_id": "WSHfHkoyV",
+          "name": "Ex_11_06 Revisiting the First Example",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1880,8 +1880,8 @@
       {
         "_id": "6077d0935635b50024111652",
         "project": {
-          "name": "Ex_11_07 Filling an Array in a for Loop",
           "_id": "BjH5BkIjj",
+          "name": "Ex_11_07 Filling an Array in a for Loop",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1899,8 +1899,8 @@
       {
         "_id": "6077d0935635b50024111653",
         "project": {
-          "name": "Ex_11_08 Track Mouse Movements",
           "_id": "pVd3PT6U3",
+          "name": "Ex_11_08 Track Mouse Movements",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1918,8 +1918,8 @@
       {
         "_id": "6077d09487eec20024b2c46c",
         "project": {
-          "name": "Ex_11_09 Managing Many Objects",
           "_id": "XDfmnW1JD",
+          "name": "Ex_11_09 Managing Many Objects",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1937,8 +1937,8 @@
       {
         "_id": "6077d09625160a0024eee300",
         "project": {
-          "name": "Ex_11_10 Sequences of Images",
           "_id": "-XbD5Gw0a",
+          "name": "Ex_11_10 Sequences of Images",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1956,8 +1956,8 @@
       {
         "_id": "6077e5364e938d002432d704",
         "project": {
-          "name": "Ex_11_99 Robot Array",
           "_id": "dO-IXUHhr",
+          "name": "Ex_11_99 Robot Array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -1979,8 +1979,8 @@
     "id": "GdOUniOjF"
   },
   {
-    "name": "Getting Started",
     "_id": "P5w9v1xsq",
+    "name": "Getting Started",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -1992,8 +1992,8 @@
       {
         "_id": "5f4e08bc9d1a130020381cc1",
         "project": {
-          "name": "Ex_02_01 Draw an Ellipse",
           "_id": "1jYHAXZRF",
+          "name": "Ex_02_01 Draw an Ellipse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2011,8 +2011,8 @@
       {
         "_id": "5f4e08bd44339a00249a1b68",
         "project": {
-          "name": "Ex_02_02 Make Circles mouseIsPressed",
           "_id": "un2SAKRVm",
+          "name": "Ex_02_02 Make Circles mouseIsPressed",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2030,8 +2030,8 @@
       {
         "_id": "604bd746272b18002471d9f8",
         "project": {
-          "name": "Ex_03_17 alpha circles",
           "_id": "sxI2SjRrh",
+          "name": "Ex_03_17 alpha circles",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2049,8 +2049,8 @@
       {
         "_id": "604bdaea272b18002471e21d",
         "project": {
-          "name": "Ex_03_06 circles touch",
           "_id": "R0o3EvVOC",
+          "name": "Ex_03_06 circles touch",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2068,8 +2068,8 @@
       {
         "_id": "604bdc8a272b18002471e59e",
         "project": {
-          "name": "Ex_03_09 arcs",
           "_id": "lj5UimD1G",
+          "name": "Ex_03_09 arcs",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2087,8 +2087,8 @@
       {
         "_id": "604bdde40091060024007901",
         "project": {
-          "name": "Ex_03_20 Two Creatures",
           "_id": "mPX1b9278",
+          "name": "Ex_03_20 Two Creatures",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2106,8 +2106,8 @@
       {
         "_id": "604bdf5c4ec98400241e0154",
         "project": {
-          "name": "Ex_03_04 quad tri",
           "_id": "4ru5A30iE",
+          "name": "Ex_03_04 quad tri",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2125,8 +2125,8 @@
       {
         "_id": "604be4b2272b18002471fb22",
         "project": {
-          "name": "Ex_03_19 beginShape",
           "_id": "xFElx4UBj",
+          "name": "Ex_03_19 beginShape",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2144,8 +2144,8 @@
       {
         "_id": "604be7930091060024009308",
         "project": {
-          "name": "Ex_03_99 Robot 1: Draw",
           "_id": "0EzMYSpky",
+          "name": "Ex_03_99 Robot 1: Draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2167,8 +2167,8 @@
     "id": "P5w9v1xsq"
   },
   {
-    "name": "HW1",
     "_id": "xGGXcU3iZ",
+    "name": "HW1",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2180,8 +2180,8 @@
       {
         "_id": "5f583a81f7fd48002038b644",
         "project": {
-          "name": "HW1 Phil",
           "_id": "hP1FXtmPj",
+          "name": "HW1 Phil",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2199,8 +2199,8 @@
       {
         "_id": "5f583a812694510020e93421",
         "project": {
-          "name": "HW1 Justin",
           "_id": "Fi_pw8dAT",
+          "name": "HW1 Justin",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2218,8 +2218,8 @@
       {
         "_id": "5f583a82f7fd48002038b645",
         "project": {
-          "name": "HW1 Bowei",
           "_id": "wcCyAOSzK",
+          "name": "HW1 Bowei",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2237,8 +2237,8 @@
       {
         "_id": "5f58415e65cc3600240576fa",
         "project": {
-          "name": "HW1 Wushuang",
           "_id": "Jnjq1Mx5M",
+          "name": "HW1 Wushuang",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2260,8 +2260,8 @@
     "id": "xGGXcU3iZ"
   },
   {
-    "name": "ICM 2021",
     "_id": "3ebGMIB6k",
+    "name": "ICM 2021",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2273,8 +2273,8 @@
       {
         "_id": "601aa082c9a7e500203b84bb",
         "project": {
-          "name": "Admitted plot 2",
           "_id": "zmGd5h7Hf",
+          "name": "Admitted plot 2",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2296,8 +2296,8 @@
     "id": "3ebGMIB6k"
   },
   {
-    "name": "ICM-issues",
     "_id": "zRmsNTGT2",
+    "name": "ICM-issues",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2309,8 +2309,8 @@
       {
         "_id": "5f7f58173b6f2f002442e49a",
         "project": {
-          "name": "W4 s2  justin 2",
           "_id": "hY5DDSiCC",
+          "name": "W4 s2  justin 2",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2332,8 +2332,8 @@
     "id": "zRmsNTGT2"
   },
   {
-    "name": "ICM-Next",
     "_id": "srbIzG7wS",
+    "name": "ICM-Next",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2345,8 +2345,8 @@
       {
         "_id": "5f8f4db078f4680024bf184a",
         "project": {
-          "name": "8.03 Manipulating_DOM_elements removeElements",
           "_id": "4fabUgZp0",
+          "name": "8.03 Manipulating_DOM_elements removeElements",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2364,8 +2364,8 @@
       {
         "_id": "5f8f8906a66bef0024c58930",
         "project": {
-          "name": "8.14_3 parent child fail",
           "_id": "IhQeQ2Pip",
+          "name": "8.14_3 parent child fail",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2383,8 +2383,8 @@
       {
         "_id": "5f9320c845f7cf002079adc3",
         "project": {
-          "name": "bouncing ball show",
           "_id": "DRVwWXe99",
+          "name": "bouncing ball show",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2402,8 +2402,8 @@
       {
         "_id": "5f9320db5a908c002060b283",
         "project": {
-          "name": "bouncing ball obj mouse",
           "_id": "EwVeHUYAg",
+          "name": "bouncing ball obj mouse",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2421,8 +2421,8 @@
       {
         "_id": "5f9320f601a5b500245a824e",
         "project": {
-          "name": "show_span opt",
           "_id": "GKJ_DbXKN",
+          "name": "show_span opt",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2440,8 +2440,8 @@
       {
         "_id": "5f98d7bf001da700248d50a5",
         "project": {
-          "name": "Webcam background removal copy",
           "_id": "v2B5u4UmQ",
+          "name": "Webcam background removal copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2459,8 +2459,8 @@
       {
         "_id": "5f98d868c8b8c600249a9ac6",
         "project": {
-          "name": "Pixel array graphics copy",
           "_id": "iX-zysAyn",
+          "name": "Pixel array graphics copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2478,8 +2478,8 @@
       {
         "_id": "5f98e03de8480e00243c0b91",
         "project": {
-          "name": "Pixel array basics copy",
           "_id": "_pwaycFAk",
+          "name": "Pixel array basics copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2497,8 +2497,8 @@
       {
         "_id": "5f98e904fe7ffa0020271691",
         "project": {
-          "name": "Get and Set copy",
           "_id": "O3XHspgGO",
+          "name": "Get and Set copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2516,8 +2516,8 @@
       {
         "_id": "5f98ea0cfe7ffa0020271a67",
         "project": {
-          "name": "Cat color picker copy",
           "_id": "eYRHQvaQV",
+          "name": "Cat color picker copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2539,8 +2539,8 @@
     "id": "srbIzG7wS"
   },
   {
-    "name": "ICM-Week-1",
     "_id": "TBLcSMZhr",
+    "name": "ICM-Week-1",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2552,8 +2552,8 @@
       {
         "_id": "5f4f5269619f180024128522",
         "project": {
-          "name": "report_xy",
           "_id": "iT7CFCFf_",
+          "name": "report_xy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2571,8 +2571,8 @@
       {
         "_id": "5f4f529c619f180024128582",
         "project": {
-          "name": "console draw",
           "_id": "o15frkWaK",
+          "name": "console draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2590,8 +2590,8 @@
       {
         "_id": "5f4f52ab619f1800241285b4",
         "project": {
-          "name": "console.log xy",
           "_id": "FC7819xZR",
+          "name": "console.log xy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2609,8 +2609,8 @@
       {
         "_id": "5f4fa2e6dffa280024356fc9",
         "project": {
-          "name": "1.1_p5.js basics trans",
           "_id": "pQ248FEUA",
+          "name": "1.1_p5.js basics trans",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2628,8 +2628,8 @@
       {
         "_id": "5f4fac09180028002024019c",
         "project": {
-          "name": "1.1_p5.js stroke fill",
           "_id": "1oVnS4R-k",
+          "name": "1.1_p5.js stroke fill",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2647,8 +2647,8 @@
       {
         "_id": "5f4faecedffa28002435991d",
         "project": {
-          "name": "1.1_p5.js []o[]o",
           "_id": "vVgMOvvGBX",
+          "name": "1.1_p5.js []o[]o",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2666,8 +2666,8 @@
       {
         "_id": "5f4fcb988a893f0020ac3d8e",
         "project": {
-          "name": "1.1_p5.js",
           "_id": "Q6A9_c_hD",
+          "name": "1.1_p5.js",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2689,8 +2689,8 @@
     "id": "TBLcSMZhr"
   },
   {
-    "name": "ICM-Week-10-Class",
     "_id": "VASEcFNAa",
+    "name": "ICM-Week-10-Class",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2702,8 +2702,8 @@
       {
         "_id": "5fac5f9a3947990024816e2b",
         "project": {
-          "name": "17.4: Amplitude Analysis + this dot",
           "_id": "7CR1KbTlV",
+          "name": "17.4: Amplitude Analysis + this dot",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2721,8 +2721,8 @@
       {
         "_id": "5fac5fbe3947990024816ee3",
         "project": {
-          "name": "17.4: Amplitude Analysis + mic",
           "_id": "c-E6SRXxW",
+          "name": "17.4: Amplitude Analysis + mic",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2740,8 +2740,8 @@
       {
         "_id": "5fac60393947990024817043",
         "project": {
-          "name": "17.8: Microphone Input",
           "_id": "AjlzQD2gj",
+          "name": "17.8: Microphone Input",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2759,8 +2759,8 @@
       {
         "_id": "5fac607c97638f00209bedea",
         "project": {
-          "name": "17.8: Microphone Input FFT",
           "_id": "oPtA9wxPL",
+          "name": "17.8: Microphone Input FFT",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2778,8 +2778,8 @@
       {
         "_id": "5fac620039479900248178d0",
         "project": {
-          "name": "17.11: Sound Visualization line",
           "_id": "78NHl2QM0",
+          "name": "17.11: Sound Visualization line",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2797,8 +2797,8 @@
       {
         "_id": "5fac623a3947990024817982",
         "project": {
-          "name": "17.11 + 7.8: Mic Input FFT",
           "_id": "6me13jnns",
+          "name": "17.11 + 7.8: Mic Input FFT",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2816,7 +2816,6 @@
       {
         "_id": "5fac626e3947990024817a13",
         "project": {
-          "name": "2:3 FFT Mic",
           "_id": "Xs5E9gPoG",
           "slug": "2:3_FFT_Mic",
           "user": {
@@ -2824,6 +2823,7 @@
             "username": "icm4.0",
             "id": "5d2357254fe378001e684009"
           },
+          "name": "2:3 FFT Mic",
           "id": "Xs5E9gPoG"
         },
         "createdAt": "2020-11-11T22:15:10.572Z",
@@ -2835,8 +2835,8 @@
       {
         "_id": "5fac69cf26ec5800240afe03",
         "project": {
-          "name": "17.11 + 7.8: Mic Input FFT big",
           "_id": "0S9HLok88",
+          "name": "17.11 + 7.8: Mic Input FFT big",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2854,8 +2854,8 @@
       {
         "_id": "5fad445db096c3002463787b",
         "project": {
-          "name": "17.1: playMode",
           "_id": "gA4F96LOA",
+          "name": "17.1: playMode",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2877,8 +2877,8 @@
     "id": "VASEcFNAa"
   },
   {
-    "name": "ICM-Week-10-Sound",
     "_id": "xgLMHI3T8",
+    "name": "ICM-Week-10-Sound",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -2890,8 +2890,8 @@
       {
         "_id": "618b3bf4c60c2e0024559262",
         "project": {
-          "name": "17.1_playSong",
           "_id": "JzUpCtscr",
+          "name": "17.1_playSong",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2909,8 +2909,8 @@
       {
         "_id": "618b3d55c60c2e0024559688",
         "project": {
-          "name": "17.1_playSong async",
           "_id": "W-_IGbU35",
+          "name": "17.1_playSong async",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2928,8 +2928,8 @@
       {
         "_id": "618b3f49c9eea90024269eeb",
         "project": {
-          "name": "17.2_pauseSong",
           "_id": "g0Y0DrH1a",
+          "name": "17.2_pauseSong",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2947,8 +2947,8 @@
       {
         "_id": "618b41c9c60c2e002455a56b",
         "project": {
-          "name": "17.3_cueSong",
           "_id": "ImSljxbEn",
+          "name": "17.3_cueSong",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2966,8 +2966,8 @@
       {
         "_id": "618b43b4c60c2e002455aae7",
         "project": {
-          "name": "17.3_cueSong play pause",
           "_id": "FHXX45k9z",
+          "name": "17.3_cueSong play pause",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -2985,8 +2985,8 @@
       {
         "_id": "618b478cc60c2e002455bbb5",
         "project": {
-          "name": "17.4_amplitudeSong",
           "_id": "gODjef3N4",
+          "name": "17.4_amplitudeSong",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3004,8 +3004,8 @@
       {
         "_id": "618b483bc60c2e002455bdfa",
         "project": {
-          "name": "17.5_snake_game_sound",
           "_id": "XPFEvFaF8",
+          "name": "17.5_snake_game_sound",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3023,8 +3023,8 @@
       {
         "_id": "618b48a3c60c2e002455bf9f",
         "project": {
-          "name": "17.6_soundSynthesis",
           "_id": "PNuNz9dfX",
+          "name": "17.6_soundSynthesis",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3042,8 +3042,8 @@
       {
         "_id": "618b4963d5db430020b06dd6",
         "project": {
-          "name": "17.7_soundEnvelope",
           "_id": "1hNfw3M31",
+          "name": "17.7_soundEnvelope",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3061,8 +3061,8 @@
       {
         "_id": "618b4ae2c60c2e002455c5c5",
         "project": {
-          "name": "17.8: Microphone Input",
           "_id": "AjlzQD2gj",
+          "name": "17.8: Microphone Input",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3080,8 +3080,8 @@
       {
         "_id": "618b4d2bd5db430020b07b7a",
         "project": {
-          "name": "17.9_graphingAmplitude",
           "_id": "0SuvHQbKk",
+          "name": "17.9_graphingAmplitude",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3099,8 +3099,8 @@
       {
         "_id": "618b4ed0c60c2e002455d83c",
         "project": {
-          "name": "17.10_radialGraph",
           "_id": "Q1gCKuVib",
+          "name": "17.10_radialGraph",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3118,8 +3118,8 @@
       {
         "_id": "618b500cd5db430020b08828",
         "project": {
-          "name": "17.11_FFT",
           "_id": "hbUBiLwwD",
+          "name": "17.11_FFT",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3137,8 +3137,8 @@
       {
         "_id": "618bda3f3a211e0024172106",
         "project": {
-          "name": "17.11_FFT ui",
           "_id": "qc-h1wL27",
+          "name": "17.11_FFT ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3156,8 +3156,8 @@
       {
         "_id": "618c35cc02a0c70024735ff3",
         "project": {
-          "name": "17.1_playMode ui edit",
           "_id": "B3ZFF-M2q",
+          "name": "17.1_playMode ui edit",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3175,8 +3175,8 @@
       {
         "_id": "618c35e002a0c7002473603f",
         "project": {
-          "name": "17.1_playMode ui edit visual",
           "_id": "BnkIJwE5R",
+          "name": "17.1_playMode ui edit visual",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3198,8 +3198,8 @@
     "id": "xgLMHI3T8"
   },
   {
-    "name": "ICM-Week-11",
     "_id": "yKaB3Zfsm",
+    "name": "ICM-Week-11",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3211,8 +3211,8 @@
       {
         "_id": "5fb34934ac6f9e0020120e62",
         "project": {
-          "name": "17.1_playMode ui",
           "_id": "_LdMqTjgu",
+          "name": "17.1_playMode ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3230,8 +3230,8 @@
       {
         "_id": "5fb349591e14a000249b71ec",
         "project": {
-          "name": "8 Note Envelope FFT ui",
           "_id": "IFght-gvV",
+          "name": "8 Note Envelope FFT ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3249,8 +3249,8 @@
       {
         "_id": "5fb34965ac6f9e0020120eff",
         "project": {
-          "name": "keyPressed 1QAZ FFT",
           "_id": "S47diDJcd",
+          "name": "keyPressed 1QAZ FFT",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3268,8 +3268,8 @@
       {
         "_id": "5fb34ba8fbb7720024b882eb",
         "project": {
-          "name": "17.5_snake_game_sound",
           "_id": "XPFEvFaF8",
+          "name": "17.5_snake_game_sound",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3287,8 +3287,8 @@
       {
         "_id": "5fb34d861e14a000249b8107",
         "project": {
-          "name": "17.6_soundSynthesis",
           "_id": "PNuNz9dfX",
+          "name": "17.6_soundSynthesis",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3306,8 +3306,8 @@
       {
         "_id": "5fb34e2833e06800246dfd7c",
         "project": {
-          "name": "17.7_soundEnvelope",
           "_id": "1hNfw3M31",
+          "name": "17.7_soundEnvelope",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3325,8 +3325,8 @@
       {
         "_id": "636bf82fed638a001af8a1b3",
         "project": {
-          "name": "scale-graph-3",
           "_id": "QWKytZi9v",
+          "name": "scale-graph-3",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3348,8 +3348,8 @@
     "id": "yKaB3Zfsm"
   },
   {
-    "name": "ICM-Week-11-Sound",
     "_id": "VHEtQB2oC",
+    "name": "ICM-Week-11-Sound",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3361,8 +3361,8 @@
       {
         "_id": "61953b19672ecd00240388c6",
         "project": {
-          "name": "scale-graph-3",
           "_id": "QWKytZi9v",
+          "name": "scale-graph-3",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3384,8 +3384,8 @@
     "id": "VHEtQB2oC"
   },
   {
-    "name": "ICM-Week-12-Text",
     "_id": "tXfqLolYw",
+    "name": "ICM-Week-12-Text",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3397,8 +3397,8 @@
       {
         "_id": "5fdcb1d31bda950024da3558",
         "project": {
-          "name": "loadJSON covid-19",
           "_id": "JG-Wh7SQz",
+          "name": "loadJSON covid-19",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3420,8 +3420,8 @@
     "id": "tXfqLolYw"
   },
   {
-    "name": "ICM-Week-2",
     "_id": "_qClsV7lj",
+    "name": "ICM-Week-2",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3433,8 +3433,8 @@
       {
         "_id": "5f5199cf30ea31002467c781",
         "project": {
-          "name": "text frameCount",
           "_id": "Ll_ZgtY_0",
+          "name": "text frameCount",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3452,8 +3452,8 @@
       {
         "_id": "5f580600f7fd4800203815f0",
         "project": {
-          "name": "report_msg frameCount",
           "_id": "_QZjP21LD6",
+          "name": "report_msg frameCount",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3471,8 +3471,8 @@
       {
         "_id": "5f58063af7fd480020381696",
         "project": {
-          "name": "report_mousexy",
           "_id": "LMvRZ3g3M",
+          "name": "report_mousexy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3490,8 +3490,8 @@
       {
         "_id": "5f5806c1f7fd48002038180c",
         "project": {
-          "name": "zoog func",
           "_id": "HQJI8pfOD",
+          "name": "zoog func",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3509,8 +3509,8 @@
       {
         "_id": "5f581e57f7fd480020385a85",
         "project": {
-          "name": "zoog func draw",
           "_id": "jAIFJomBw",
+          "name": "zoog func draw",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3528,8 +3528,8 @@
       {
         "_id": "5f581e96f7fd480020385b81",
         "project": {
-          "name": "Zoog mimiyin",
           "_id": "3Floz4vjU",
+          "name": "Zoog mimiyin",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3547,8 +3547,8 @@
       {
         "_id": "5f581fe36a442f0024d74c10",
         "project": {
-          "name": "zoog func draw mouseY",
           "_id": "0bbB7pf8R",
+          "name": "zoog func draw mouseY",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3566,8 +3566,8 @@
       {
         "_id": "5f5933d7c3c2160023fef51a",
         "project": {
-          "name": "face re-mix",
           "_id": "smc9kl-52",
+          "name": "face re-mix",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3585,8 +3585,8 @@
       {
         "_id": "5f5933e7c3c2160023fef578",
         "project": {
-          "name": "face re-mix files",
           "_id": "_Q8wZH4Z0",
+          "name": "face re-mix files",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3604,8 +3604,8 @@
       {
         "_id": "5f5941514581fc002097aaf9",
         "project": {
-          "name": "slides re-mix switch",
           "_id": "PllMTbvmR",
+          "name": "slides re-mix switch",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3623,8 +3623,8 @@
       {
         "_id": "5f5946c0c3c2160023ff3257",
         "project": {
-          "name": "slides re-mix",
           "_id": "OIej0SLSh",
+          "name": "slides re-mix",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3642,8 +3642,8 @@
       {
         "_id": "5f594aa9aa5072002013e993",
         "project": {
-          "name": "slides re-mix mousePressed",
           "_id": "OMXzbr-LY",
+          "name": "slides re-mix mousePressed",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3661,8 +3661,8 @@
       {
         "_id": "5f6216c438abeb0024432609",
         "project": {
-          "name": "hand drawn plan",
           "_id": "0eRP4Lg2I",
+          "name": "hand drawn plan",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3680,8 +3680,8 @@
       {
         "_id": "5f629a0b57d26a002041315d",
         "project": {
-          "name": "WK2 move a circle with random size",
           "_id": "5P70SGsPZ",
+          "name": "WK2 move a circle with random size",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3699,8 +3699,8 @@
       {
         "_id": "5f638b98d879bf0024f81ac9",
         "project": {
-          "name": "report_msg line_num",
           "_id": "KMv3WaVCz",
+          "name": "report_msg line_num",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3722,8 +3722,8 @@
     "id": "_qClsV7lj"
   },
   {
-    "name": "ICM-Week-3",
     "_id": "HRfrA78ct",
+    "name": "ICM-Week-3",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3735,8 +3735,8 @@
       {
         "_id": "5f6bc9c0adba98002464bef8",
         "project": {
-          "name": "square rollover",
           "_id": "fHPelvesv",
+          "name": "square rollover",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3754,8 +3754,8 @@
       {
         "_id": "5f6bc9fb5590b30020bf9131",
         "project": {
-          "name": "quadrant rollover",
           "_id": "YuGfZGvKr",
+          "name": "quadrant rollover",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3773,8 +3773,8 @@
       {
         "_id": "5f6bcb1a5590b30020bf93e7",
         "project": {
-          "name": "circle rollover",
           "_id": "L9A3pC14KD",
+          "name": "circle rollover",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3792,8 +3792,8 @@
       {
         "_id": "5f6bcb4cadba98002464c3f7",
         "project": {
-          "name": "button switch",
           "_id": "AAm-Tm0Ka",
+          "name": "button switch",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3811,8 +3811,8 @@
       {
         "_id": "5f6bcc96adba98002464cae1",
         "project": {
-          "name": "create_button",
           "_id": "VZd9PSeU8",
+          "name": "create_button",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3830,8 +3830,8 @@
       {
         "_id": "5f6bcdc4adba98002464d0fc",
         "project": {
-          "name": "create_slider",
           "_id": "uVs5gdY_3",
+          "name": "create_slider",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3849,8 +3849,8 @@
       {
         "_id": "5f6bcf815590b30020bfa99f",
         "project": {
-          "name": "create_checkbox grid",
           "_id": "SKeY2q3MI",
+          "name": "create_checkbox grid",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3868,8 +3868,8 @@
       {
         "_id": "5f6c07aa205a31002403424a",
         "project": {
-          "name": "bouncing ball show",
           "_id": "DRVwWXe99",
+          "name": "bouncing ball show",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3887,8 +3887,8 @@
       {
         "_id": "5f74165caae1480019f6f8c0",
         "project": {
-          "name": "show_span opt",
           "_id": "GKJ_DbXKN",
+          "name": "show_span opt",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3910,8 +3910,8 @@
     "id": "HRfrA78ct"
   },
   {
-    "name": "ICM-Week-4",
     "_id": "yUJfP7UdD",
+    "name": "ICM-Week-4",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -3923,8 +3923,8 @@
       {
         "_id": "5f74fbf4d746810024fd87d8",
         "project": {
-          "name": "parts 3 hover",
           "_id": "FQuUs0kYM",
+          "name": "parts 3 hover",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3942,8 +3942,8 @@
       {
         "_id": "5f74fc45af86fe00244200e1",
         "project": {
-          "name": "part_hit color",
           "_id": "Un9KFJDLT",
+          "name": "part_hit color",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3961,8 +3961,8 @@
       {
         "_id": "5f74fc7caf86fe002442017d",
         "project": {
-          "name": "grid loop starter",
           "_id": "9jQy06NyD",
+          "name": "grid loop starter",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3980,8 +3980,8 @@
       {
         "_id": "5f74fd76e6811900247a027b",
         "project": {
-          "name": "create_checkbox grid",
           "_id": "SKeY2q3MI",
+          "name": "create_checkbox grid",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -3999,8 +3999,8 @@
       {
         "_id": "5f8872e0cb6b0300247ff092",
         "project": {
-          "name": "W4 checkerboard challenge",
           "_id": "NynpNNENn",
+          "name": "W4 checkerboard challenge",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4018,8 +4018,8 @@
       {
         "_id": "5f89e6aa661f15002042264f",
         "project": {
-          "name": "Showy hedge",
           "_id": "lI_EUFKmR",
+          "name": "Showy hedge",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4041,8 +4041,8 @@
     "id": "yUJfP7UdD"
   },
   {
-    "name": "ICM-Week-4-prep",
     "_id": "7TeIPiwI5",
+    "name": "ICM-Week-4-prep",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -4054,8 +4054,8 @@
       {
         "_id": "5f747ad3b6345a001963e03a",
         "project": {
-          "name": "10PRINT _step",
           "_id": "wLXADLtvI",
+          "name": "10PRINT _step",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4073,8 +4073,8 @@
       {
         "_id": "5f747b41fecd020019603d47",
         "project": {
-          "name": "10PRINT while",
           "_id": "VLu-QryO7",
+          "name": "10PRINT while",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4092,8 +4092,8 @@
       {
         "_id": "5f747c9307d6fd0019cbd48b",
         "project": {
-          "name": "10PRINT copy",
           "_id": "tZpRbsqHg",
+          "name": "10PRINT copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4111,8 +4111,8 @@
       {
         "_id": "5f747dacbee084001918b210",
         "project": {
-          "name": "bouncing ball",
           "_id": "QIkgxVX2J",
+          "name": "bouncing ball",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4130,8 +4130,8 @@
       {
         "_id": "5f7481a97aa9750019bec497",
         "project": {
-          "name": "bouncing show_",
           "_id": "UafsQRheL",
+          "name": "bouncing show_",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4149,8 +4149,8 @@
       {
         "_id": "5f7481fdeee8400019e57312",
         "project": {
-          "name": "bouncing ball obj",
           "_id": "FkmJWnKqi",
+          "name": "bouncing ball obj",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4168,8 +4168,8 @@
       {
         "_id": "5f74845bfecd020019605431",
         "project": {
-          "name": "bouncing ball obj func",
           "_id": "2Kx8pJ13B",
+          "name": "bouncing ball obj func",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4187,8 +4187,8 @@
       {
         "_id": "5f748484fecd0200196054ae",
         "project": {
-          "name": "bouncing draw _ball",
           "_id": "YK19XLn5I",
+          "name": "bouncing draw _ball",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4206,8 +4206,8 @@
       {
         "_id": "5f7488a3fecd02001960656d",
         "project": {
-          "name": "Roomy puppy",
           "_id": "rbtkrn0uQ",
+          "name": "Roomy puppy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4225,8 +4225,8 @@
       {
         "_id": "5f74c7bf5ef35d0019c39801",
         "project": {
-          "name": "parts 3 hover",
           "_id": "FQuUs0kYM",
+          "name": "parts 3 hover",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4244,8 +4244,8 @@
       {
         "_id": "5f74e8c55ef35d0019c3fc8b",
         "project": {
-          "name": "create_checkbox grid",
           "_id": "SKeY2q3MI",
+          "name": "create_checkbox grid",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4263,8 +4263,8 @@
       {
         "_id": "5f74ee8162f42a0019d91a7f",
         "project": {
-          "name": "grid while x",
           "_id": "E5RyS0dVw",
+          "name": "grid while x",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4286,8 +4286,8 @@
     "id": "7TeIPiwI5"
   },
   {
-    "name": "ICM-Week-5",
     "_id": "WZMrJc0v4",
+    "name": "ICM-Week-5",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -4299,8 +4299,8 @@
       {
         "_id": "5f7e6d450621180024f17817",
         "project": {
-          "name": "sum",
           "_id": "8bxTAM84n",
+          "name": "sum",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4318,8 +4318,8 @@
       {
         "_id": "5f7e6eb183d48d00244df411",
         "project": {
-          "name": "rect ribbon",
           "_id": "zagmQaq8J",
+          "name": "rect ribbon",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4337,8 +4337,8 @@
       {
         "_id": "5f7e7746e45cd00024d82875",
         "project": {
-          "name": "colorStatic phil",
           "_id": "n_zvA2EKy",
+          "name": "colorStatic phil",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4356,8 +4356,8 @@
       {
         "_id": "5f7e79627d88f200244433c6",
         "project": {
-          "name": "bouncing ball functions 0",
           "_id": "ZO6_aIePx",
+          "name": "bouncing ball functions 0",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4375,8 +4375,8 @@
       {
         "_id": "5f7e7acae45cd00024d832e5",
         "project": {
-          "name": "preload loadImage",
           "_id": "zZXn0_0Ml",
+          "name": "preload loadImage",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4394,8 +4394,8 @@
       {
         "_id": "5f7f52263b6f2f002442d554",
         "project": {
-          "name": "equilateral triangle 6",
           "_id": "yxDWkjIqf",
+          "name": "equilateral triangle 6",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4417,8 +4417,8 @@
     "id": "WZMrJc0v4"
   },
   {
-    "name": "ICM-Week-6",
     "_id": "6AL7KgTON",
+    "name": "ICM-Week-6",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -4430,8 +4430,8 @@
       {
         "_id": "5f849db49b28d200202f23fe",
         "project": {
-          "name": "W4_1.3 copy_1_modulo 0",
           "_id": "dzyfD8lw_",
+          "name": "W4_1.3 copy_1_modulo 0",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4449,8 +4449,8 @@
       {
         "_id": "5f863ddd56fac300244057e0",
         "project": {
-          "name": "snake max_loc",
           "_id": "KUhNQWtDL",
+          "name": "snake max_loc",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4468,8 +4468,8 @@
       {
         "_id": "5f86434556fac3002440632e",
         "project": {
-          "name": "7.1 What is an Array? 1",
           "_id": "zSMXnWpXI",
+          "name": "7.1 What is an Array? 1",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4487,8 +4487,8 @@
       {
         "_id": "5f86449f167f9c0024a4e435",
         "project": {
-          "name": "7.2 Arrays and loops",
           "_id": "pT0_mdXrm",
+          "name": "7.2 Arrays and loops",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4506,8 +4506,8 @@
       {
         "_id": "5f8647f256fac3002440735a",
         "project": {
-          "name": "7.3 Arrays of objects 1",
           "_id": "xq4zwDd2x",
+          "name": "7.3 Arrays of objects 1",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4525,8 +4525,8 @@
       {
         "_id": "5f866bd7f6b8cc0024a85c53",
         "project": {
-          "name": "7.4 Mouse interaction with objects",
           "_id": "LrhcIzvr2",
+          "name": "7.4 Mouse interaction with objects",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4544,8 +4544,8 @@
       {
         "_id": "5f86783bf6b8cc0024a87b00",
         "project": {
-          "name": "7.5 Removing objects from arrays trials",
           "_id": "4c3ja646V",
+          "name": "7.5 Removing objects from arrays trials",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4563,8 +4563,8 @@
       {
         "_id": "5f86785cf6b8cc0024a87b64",
         "project": {
-          "name": "7.5 Removing objects from arrays",
           "_id": "ukRrexynz",
+          "name": "7.5 Removing objects from arrays",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4582,8 +4582,8 @@
       {
         "_id": "5f86fe477ecfad0024b8935f",
         "project": {
-          "name": "bouncing ball func 2",
           "_id": "vagPkRuRz",
+          "name": "bouncing ball func 2",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4601,8 +4601,8 @@
       {
         "_id": "5f870aab7f16640024fa19b7",
         "project": {
-          "name": "gravity ball two func r",
           "_id": "FkSOtQfB5",
+          "name": "gravity ball two func r",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4620,8 +4620,8 @@
       {
         "_id": "5f8716c16948d10024f76aff",
         "project": {
-          "name": "loadImage tile",
           "_id": "C18P0IIfV",
+          "name": "loadImage tile",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4639,8 +4639,8 @@
       {
         "_id": "5f8775c782b1160020d7a7eb",
         "project": {
-          "name": "single bubble",
           "_id": "cB7UxUCfw",
+          "name": "single bubble",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4658,8 +4658,8 @@
       {
         "_id": "5f87a14aab05b80024912ab9",
         "project": {
-          "name": "bubbles array",
           "_id": "DnKlGQ-sf",
+          "name": "bubbles array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4677,8 +4677,8 @@
       {
         "_id": "5f87a918f55aad00240f0ccd",
         "project": {
-          "name": "bubble more",
           "_id": "HXigwa2k-",
+          "name": "bubble more",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4700,8 +4700,8 @@
     "id": "6AL7KgTON"
   },
   {
-    "name": "ICM-Week-7",
     "_id": "Gr9aCJs6t",
+    "name": "ICM-Week-7",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -4713,8 +4713,8 @@
       {
         "_id": "5f8d12fddddbc900240bba23",
         "project": {
-          "name": "8.05 select callback",
           "_id": "AQ6mnFiZt",
+          "name": "8.05 select callback",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4732,8 +4732,8 @@
       {
         "_id": "5f8d1e96e7f9b30020513e4a",
         "project": {
-          "name": "8.05 input crawl",
           "_id": "aHS_944ll",
+          "name": "8.05 input crawl",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4751,8 +4751,8 @@
       {
         "_id": "5f8d1edee35eb20024947e6e",
         "project": {
-          "name": "8.05 slider changeColor",
           "_id": "keiKvBcIl",
+          "name": "8.05 slider changeColor",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4770,8 +4770,8 @@
       {
         "_id": "5f8d202ae35eb20024948388",
         "project": {
-          "name": "8.05 input",
           "_id": "aN3sBqXoW",
+          "name": "8.05 input",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4789,8 +4789,8 @@
       {
         "_id": "5f8e3ae986771c0024bb53ce",
         "project": {
-          "name": "8.10 selectAll",
           "_id": "YZ4AN5XCn",
+          "name": "8.10 selectAll",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4808,8 +4808,8 @@
       {
         "_id": "5f8e3cc0786c150024c4a582",
         "project": {
-          "name": "8.10 select",
           "_id": "RXoJujbVp",
+          "name": "8.10 select",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4827,8 +4827,8 @@
       {
         "_id": "5f8e3f93ae37eb00206869da",
         "project": {
-          "name": "8.09 js_CSS_Selectors",
           "_id": "NZ9ZgwkTX",
+          "name": "8.09 js_CSS_Selectors",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4846,8 +4846,8 @@
       {
         "_id": "5f8e42393c63f90024f57a3c",
         "project": {
-          "name": "8.08 events_changed",
           "_id": "OfzrlCCpL",
+          "name": "8.08 events_changed",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4865,8 +4865,8 @@
       {
         "_id": "5f8e42d29c6c180024c9893f",
         "project": {
-          "name": "8.08 events_input",
           "_id": "R-l2kFq-J",
+          "name": "8.08 events_input",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4884,8 +4884,8 @@
       {
         "_id": "5f8e59b192477d0024c97845",
         "project": {
-          "name": "8.07 Basics of CSS",
           "_id": "UwzyefBNc",
+          "name": "8.07 Basics of CSS",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4903,8 +4903,8 @@
       {
         "_id": "5f8e5e2511a2900024a739fa",
         "project": {
-          "name": "8.06 Other_Events_and_Inputs",
           "_id": "Omkuy5ff8",
+          "name": "8.06 Other_Events_and_Inputs",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4922,8 +4922,8 @@
       {
         "_id": "5f8e5f4511a2900024a73e1a",
         "project": {
-          "name": "8.05 Interacting with the DOM",
           "_id": "f-Or4yb6-",
+          "name": "8.05 Interacting with the DOM",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4941,8 +4941,8 @@
       {
         "_id": "5f8e620911a2900024a74682",
         "project": {
-          "name": "8.04 Handling_DOM_events",
           "_id": "QoeXaY22s",
+          "name": "8.04 Handling_DOM_events",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4960,8 +4960,8 @@
       {
         "_id": "5f8f07821649d00020de709c",
         "project": {
-          "name": "8.01 What_is_HTML",
           "_id": "cSeIphwNx",
+          "name": "8.01 What_is_HTML",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4979,8 +4979,8 @@
       {
         "_id": "5f8f112f5a7db70020522cd5",
         "project": {
-          "name": "8.02 Creating HTML elements",
           "_id": "EZn_Bfrjk",
+          "name": "8.02 Creating HTML elements",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -4998,8 +4998,8 @@
       {
         "_id": "5f8f13f3cf824200247affec",
         "project": {
-          "name": "8.03 Manipulating_DOM_elements",
           "_id": "1Sxb49U3p",
+          "name": "8.03 Manipulating_DOM_elements",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5017,8 +5017,8 @@
       {
         "_id": "5f8f5a7231d73200247ed9dc",
         "project": {
-          "name": "8.11 callbacks on multiple DOM elements",
           "_id": "SQMAfAsXX",
+          "name": "8.11 callbacks on multiple DOM elements",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5036,8 +5036,8 @@
       {
         "_id": "5f8f5d2d7878af0024747d27",
         "project": {
-          "name": "8.12 parent_child",
           "_id": "nSMEGQeZn",
+          "name": "8.12 parent_child",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5055,8 +5055,8 @@
       {
         "_id": "5f8f634c4943cb0024e2d813",
         "project": {
-          "name": "8.13 Assign_a_CSS_class",
           "_id": "LTpHvvjQO",
+          "name": "8.13 Assign_a_CSS_class",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5074,8 +5074,8 @@
       {
         "_id": "5f8f7c0764df430024f6c9a1",
         "project": {
-          "name": "8.14_0 parent child",
           "_id": "H1O1bcqwU",
+          "name": "8.14_0 parent child",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5093,8 +5093,8 @@
       {
         "_id": "5f8f88d364df430024f6ef59",
         "project": {
-          "name": "8.14_3 parent child clear_images",
           "_id": "ZaOM6tgPZ",
+          "name": "8.14_3 parent child clear_images",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5112,8 +5112,8 @@
       {
         "_id": "5fb0c159f335c8002464cd32",
         "project": {
-          "name": "bubble drop select",
           "_id": "9QYJpYm1I",
+          "name": "bubble drop select",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5131,8 +5131,8 @@
       {
         "_id": "634ff6f334c82f001a405cad",
         "project": {
-          "name": "button slider checkbox ui",
           "_id": "mdhUP_wTu",
+          "name": "button slider checkbox ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5154,8 +5154,8 @@
     "id": "Gr9aCJs6t"
   },
   {
-    "name": "ICM-Week-8",
     "_id": "XKr_AXpaT",
+    "name": "ICM-Week-8",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -5167,8 +5167,8 @@
       {
         "_id": "5f8a6909e8720b0020184e80",
         "project": {
-          "name": "11.3: The Pixel Array",
           "_id": "GiSAQWxq4",
+          "name": "11.3: The Pixel Array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5186,8 +5186,8 @@
       {
         "_id": "5f8ab911cb3e2f002413ce53",
         "project": {
-          "name": "11.1: Live Video and createCapture",
           "_id": "MtdR3vBcj",
+          "name": "11.1: Live Video and createCapture",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5205,8 +5205,8 @@
       {
         "_id": "5f8bca08d5156e002438d8c6",
         "project": {
-          "name": "11.2: Video Photobooth",
           "_id": "pTG_ysiGf",
+          "name": "11.2: Video Photobooth",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5224,8 +5224,8 @@
       {
         "_id": "5f8bdb11d5156e0024390c3b",
         "project": {
-          "name": "11.6: Painting with Pixels",
           "_id": "M5z0cUqPl",
+          "name": "11.6: Painting with Pixels",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5243,8 +5243,8 @@
       {
         "_id": "5f8be1d8d5156e00243925e5",
         "project": {
-          "name": "11.4: Brightness Mirror",
           "_id": "z7tzc3Ks9",
+          "name": "11.4: Brightness Mirror",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5262,8 +5262,8 @@
       {
         "_id": "5f8be270eba2ac0020314cff",
         "project": {
-          "name": "11.7: Slit-Scan",
           "_id": "zBH7ThRpP",
+          "name": "11.7: Slit-Scan",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5281,8 +5281,8 @@
       {
         "_id": "5f8ceb6ddddbc900240b3590",
         "project": {
-          "name": "11.8: Video Effects with Seriously.js - blur",
           "_id": "khSNfD2jM",
+          "name": "11.8: Video Effects with Seriously.js - blur",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5300,8 +5300,8 @@
       {
         "_id": "5f8cf30be35eb2002493f153",
         "project": {
-          "name": "11.8: Video Effects with Seriously.js - chroma",
           "_id": "lUoSWn7KC",
+          "name": "11.8: Video Effects with Seriously.js - chroma",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5319,8 +5319,8 @@
       {
         "_id": "5f8cf9c4e35eb20024940e5a",
         "project": {
-          "name": "11.5: Checkbox Mirror ok",
           "_id": "uYk7qAQM2",
+          "name": "11.5: Checkbox Mirror ok",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5338,8 +5338,8 @@
       {
         "_id": "5f8e45b0ff57e9002497a0b4",
         "project": {
-          "name": "11.1: Live Video 2x2 tint",
           "_id": "8NMtstCRQ",
+          "name": "11.1: Live Video 2x2 tint",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5357,8 +5357,8 @@
       {
         "_id": "5f9322c201a5b500245a8934",
         "project": {
-          "name": "p5.Image pixels writeColor",
           "_id": "gJFKLzI9w",
+          "name": "p5.Image pixels writeColor",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5376,8 +5376,8 @@
       {
         "_id": "6358a96eb3e330001a9675c6",
         "project": {
-          "name": "11.6: Painting with Pixels - faster",
           "_id": "pJUsVrl08",
+          "name": "11.6: Painting with Pixels - faster",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5395,8 +5395,8 @@
       {
         "_id": "63611091613b47001a4dccdc",
         "project": {
-          "name": "11.3: The Pixel Array Slider",
           "_id": "UQSjHZYJL",
+          "name": "11.3: The Pixel Array Slider",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5418,8 +5418,8 @@
     "id": "XKr_AXpaT"
   },
   {
-    "name": "ICM-Week-8-Class",
     "_id": "u2Fm7rGH4",
+    "name": "ICM-Week-8-Class",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -5431,8 +5431,8 @@
       {
         "_id": "5f99a54e4bcc8e0020aba75b",
         "project": {
-          "name": "11.1: Live Video and createCapture",
           "_id": "MtdR3vBcj",
+          "name": "11.1: Live Video and createCapture",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5450,8 +5450,8 @@
       {
         "_id": "635431629a02b6001a750a2a",
         "project": {
-          "name": "11.2_p5.js_photoBooth",
           "_id": "gHTpdUy3q",
+          "name": "11.2_p5.js_photoBooth",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5469,8 +5469,8 @@
       {
         "_id": "6354324551fd1f001a2c8eed",
         "project": {
-          "name": "11.3: The Pixel Array",
           "_id": "KXR-4ISdB",
+          "name": "11.3: The Pixel Array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5488,8 +5488,8 @@
       {
         "_id": "635432bd6dfb10001a71e87e",
         "project": {
-          "name": "11.4_p5.js_brightness_mirror",
           "_id": "hrpVXSthK",
+          "name": "11.4_p5.js_brightness_mirror",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5507,8 +5507,8 @@
       {
         "_id": "635433ef51fd1f001a2c9c2b",
         "project": {
-          "name": "11.5_checkbox_mirror",
           "_id": "pi7Xef_NQ",
+          "name": "11.5_checkbox_mirror",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5526,8 +5526,8 @@
       {
         "_id": "6354350f9a02b6001a7526a1",
         "project": {
-          "name": "11.6_p5.js_painting",
           "_id": "xtFJbWbCR",
+          "name": "11.6_p5.js_painting",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5545,8 +5545,8 @@
       {
         "_id": "635436209a02b6001a752f95",
         "project": {
-          "name": "11.7_p5.js_slitscan",
           "_id": "X-s9xTI9b",
+          "name": "11.7_p5.js_slitscan",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5568,8 +5568,8 @@
     "id": "u2Fm7rGH4"
   },
   {
-    "name": "ICM-Week-9-Class",
     "_id": "4fE4Q_kUE",
+    "name": "ICM-Week-9-Class",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -5581,8 +5581,8 @@
       {
         "_id": "5fa3014bd34b940020380559",
         "project": {
-          "name": "2:2 Tri-Color Background-Foreground ui",
           "_id": "1cz7yYcFM",
+          "name": "2:2 Tri-Color Background-Foreground ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5600,8 +5600,8 @@
       {
         "_id": "5fa3015f534216002442bf85",
         "project": {
-          "name": "2:2 HSB swatches ui",
           "_id": "nrrJkCazV",
+          "name": "2:2 HSB swatches ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5619,8 +5619,8 @@
       {
         "_id": "5fa30a2fdb0fc800209cfa5a",
         "project": {
-          "name": "PoseNet Example 1",
           "_id": "xKSDq-w4H",
+          "name": "PoseNet Example 1",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5638,8 +5638,8 @@
       {
         "_id": "5fa30a41db0fc800209cfa8c",
         "project": {
-          "name": "WK9 PosetNet Keypoints Demo",
           "_id": "C8-6BjUJ-",
+          "name": "WK9 PosetNet Keypoints Demo",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5657,8 +5657,8 @@
       {
         "_id": "636ab210729d74001a5d0bf2",
         "project": {
-          "name": "PoseNet multi",
           "_id": "xjAXcxLSW",
+          "name": "PoseNet multi",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5680,8 +5680,8 @@
     "id": "4fE4Q_kUE"
   },
   {
-    "name": "My sandy collection",
     "_id": "hYw6hu3mm",
+    "name": "My sandy collection",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -5693,8 +5693,8 @@
       {
         "_id": "5f90e8582654410024fcea8c",
         "project": {
-          "name": "loadImage 1",
           "_id": "lngaszMGr",
+          "name": "loadImage 1",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5712,8 +5712,8 @@
       {
         "_id": "5f91b70a779e3d0024e8ec58",
         "project": {
-          "name": "p5.Image pixels writeColor",
           "_id": "gJFKLzI9w",
+          "name": "p5.Image pixels writeColor",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5731,8 +5731,8 @@
       {
         "_id": "5f9326fc5a908c002060c492",
         "project": {
-          "name": "p5.Image pixels video",
           "_id": "IqKA6_3fm",
+          "name": "p5.Image pixels video",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5754,8 +5754,8 @@
     "id": "hYw6hu3mm"
   },
   {
-    "name": "p5 rect",
     "_id": "Cu7Cn1KU1",
+    "name": "p5 rect",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -5767,8 +5767,8 @@
       {
         "_id": "5f4a26c1de2907002032ac59",
         "project": {
-          "name": "p5 shapes color setAlpha",
           "_id": "95PNeBEQq",
+          "name": "p5 shapes color setAlpha",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5786,8 +5786,8 @@
       {
         "_id": "5f4a26c3de2907002032ac72",
         "project": {
-          "name": "p5 shapes color array",
           "_id": "eqb-ChsZ-",
+          "name": "p5 shapes color array",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5805,8 +5805,8 @@
       {
         "_id": "5f4a26c5db06ec0024ea582e",
         "project": {
-          "name": "p5 shapes css color",
           "_id": "caNWprD8y",
+          "name": "p5 shapes css color",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5824,8 +5824,8 @@
       {
         "_id": "5f4a26c79c495600248f6ba2",
         "project": {
-          "name": "p5 shapes translate",
           "_id": "uKz00u1sE",
+          "name": "p5 shapes translate",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5843,8 +5843,8 @@
       {
         "_id": "5f4a26c8de2907002032ac78",
         "project": {
-          "name": "p5 shapes scale",
           "_id": "8P4daikNK",
+          "name": "p5 shapes scale",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5862,8 +5862,8 @@
       {
         "_id": "5f4a26c9db06ec0024ea583c",
         "project": {
-          "name": "p5 shapes color fill",
           "_id": "Hdeyj4tTu",
+          "name": "p5 shapes color fill",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5881,8 +5881,8 @@
       {
         "_id": "5f4a26cadb06ec0024ea583d",
         "project": {
-          "name": "p5 shapes color rgb shift",
           "_id": "UPWKqptFX",
+          "name": "p5 shapes color rgb shift",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5900,8 +5900,8 @@
       {
         "_id": "5f4a26cbde2907002032ac91",
         "project": {
-          "name": "p5 shapes color rgb",
           "_id": "rP0w0LOCY",
+          "name": "p5 shapes color rgb",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5919,8 +5919,8 @@
       {
         "_id": "5f4a26ccdb06ec0024ea5842",
         "project": {
-          "name": "p5 shapes color",
           "_id": "NFdYgqpnb",
+          "name": "p5 shapes color",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5938,8 +5938,8 @@
       {
         "_id": "5f4a26cd9c495600248f6ba3",
         "project": {
-          "name": "p5 shapes const copy",
           "_id": "8hElajGl_",
+          "name": "p5 shapes const copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5957,8 +5957,8 @@
       {
         "_id": "5f4a26cfdb06ec0024ea5843",
         "project": {
-          "name": "p5 shapes const",
           "_id": "N8Of2Y_vJ",
+          "name": "p5 shapes const",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5976,8 +5976,8 @@
       {
         "_id": "5f4a26d4db06ec0024ea585f",
         "project": {
-          "name": "p5 shapes func narrow",
           "_id": "-svyQySdn",
+          "name": "p5 shapes func narrow",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -5995,8 +5995,8 @@
       {
         "_id": "5f4a26d5de2907002032ac96",
         "project": {
-          "name": "p5 shapes func",
           "_id": "0OFIOza1o",
+          "name": "p5 shapes func",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6014,8 +6014,8 @@
       {
         "_id": "5f4a26d6de2907002032aca4",
         "project": {
-          "name": "p5 shapes const copy",
           "_id": "psybeGMhD",
+          "name": "p5 shapes const copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6033,8 +6033,8 @@
       {
         "_id": "5f4a26d7db06ec0024ea5871",
         "project": {
-          "name": "p5 shapes const obj",
           "_id": "-Cx-jDRbT",
+          "name": "p5 shapes const obj",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6052,8 +6052,8 @@
       {
         "_id": "5f4a26d8db06ec0024ea5876",
         "project": {
-          "name": "p5 shapes const",
           "_id": "Z_BBqwy-Z",
+          "name": "p5 shapes const",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6075,8 +6075,8 @@
     "id": "Cu7Cn1KU1"
   },
   {
-    "name": "The Coding Train",
     "_id": "2R1Sx-_K0n",
+    "name": "The Coding Train",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -6088,8 +6088,8 @@
       {
         "_id": "5f4e080c44339a00249a1943",
         "project": {
-          "name": "1.1_p5.js basics_of_drawing",
           "_id": "p4WOzDrgQ",
+          "name": "1.1_p5.js basics_of_drawing",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6107,8 +6107,8 @@
       {
         "_id": "5f4e080d44339a00249a1944",
         "project": {
-          "name": "1.2 p5.js_Color",
           "_id": "K_1xNuX78",
+          "name": "1.2 p5.js_Color",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6126,8 +6126,8 @@
       {
         "_id": "5f4e081644339a00249a1956",
         "project": {
-          "name": "2.1_p5.js mouseX_mouseY",
           "_id": "ZqCArD77g",
+          "name": "2.1_p5.js mouseX_mouseY",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6145,8 +6145,8 @@
       {
         "_id": "5f4e0817e3bb5600245abb25",
         "project": {
-          "name": "2.2_p5.js user_defined",
           "_id": "h-rLRPdqn",
+          "name": "2.2_p5.js user_defined",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6164,8 +6164,8 @@
       {
         "_id": "5f4e0818e3bb5600245abb26",
         "project": {
-          "name": "2.3_0_p5 without_objects",
           "_id": "gv8PmJE2u",
+          "name": "2.3_0_p5 without_objects",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6183,8 +6183,8 @@
       {
         "_id": "5f4e0819e3bb5600245abb27",
         "project": {
-          "name": "2.3_1_p5 with_objects",
           "_id": "qsfTfkb_5",
+          "name": "2.3_1_p5 with_objects",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6206,8 +6206,8 @@
     "id": "2R1Sx-_K0n"
   },
   {
-    "name": "Week 7 Class Collection",
     "_id": "KPncsHlef",
+    "name": "Week 7 Class Collection",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -6219,8 +6219,8 @@
       {
         "_id": "5f90b2d00eda150024a85efc",
         "project": {
-          "name": "8.01 What_is_HTML copy",
           "_id": "YDSW5I8U2",
+          "name": "8.01 What_is_HTML copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6238,8 +6238,8 @@
       {
         "_id": "5f90d61772572400249e811d",
         "project": {
-          "name": "checkbox ui",
           "_id": "0biWSEZBr",
+          "name": "checkbox ui",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6257,8 +6257,8 @@
       {
         "_id": "5f90e4fb2654410024fce2de",
         "project": {
-          "name": "loadImage tile",
           "_id": "C18P0IIfV",
+          "name": "loadImage tile",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6276,8 +6276,8 @@
       {
         "_id": "5f90e6ec16aabc002401e887",
         "project": {
-          "name": "loadImage 1",
           "_id": "lngaszMGr",
+          "name": "loadImage 1",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6295,8 +6295,8 @@
       {
         "_id": "5f914bea2dbc27002044044a",
         "project": {
-          "name": "checkbox ui text",
           "_id": "Z646Pkcmf",
+          "name": "checkbox ui text",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6318,8 +6318,8 @@
     "id": "KPncsHlef"
   },
   {
-    "name": "zoog",
     "_id": "hN2ARAJZo",
+    "name": "zoog",
     "owner": {
       "_id": "5f32f01d6b63fd002457940e",
       "username": "jht1493",
@@ -6331,8 +6331,8 @@
       {
         "_id": "5f4d28d07421b00020053ab8",
         "project": {
-          "name": "Zoog family alpha",
           "_id": "rlhXAvJWB",
+          "name": "Zoog family alpha",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6350,8 +6350,8 @@
       {
         "_id": "5f4d28d165c42e0020dd6f98",
         "project": {
-          "name": "Zoog family step",
           "_id": "l63ieOmpK",
+          "name": "Zoog family step",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6369,8 +6369,8 @@
       {
         "_id": "5f4d28d47421b00020053acb",
         "project": {
-          "name": "Zoog family",
           "_id": "35xU7zmFI",
+          "name": "Zoog family",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6388,8 +6388,8 @@
       {
         "_id": "5f4d28d83bf29f00241c85cd",
         "project": {
-          "name": "Zoog copy",
           "_id": "iYZ8gULFZ",
+          "name": "Zoog copy",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
@@ -6407,8 +6407,8 @@
       {
         "_id": "5f4d28d965c42e0020dd6fb4",
         "project": {
-          "name": "Zoog fun",
           "_id": "tgZpbhMxB",
+          "name": "Zoog fun",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
             "username": "jht1493",
