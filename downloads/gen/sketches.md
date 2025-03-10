@@ -79,6 +79,8 @@
 [11.7: Slit-Scan copy-image copy](https://editor.p5js.org/jht1493/sketches/B7qv-A4fm)<!-- 2020-11-03T03:59:27.146Z -->  
 [11.8: Video Effects with Seriously.js - blur](https://editor.p5js.org/jht1493/sketches/khSNfD2jM)<!-- 2020-10-27T18:16:53.037Z -->  
 [11.8: Video Effects with Seriously.js - chroma](https://editor.p5js.org/jht1493/sketches/lUoSWn7KC)<!-- 2020-10-27T18:17:07.647Z -->  
+[17.0 keyPressed 1QAZ FFT](https://editor.p5js.org/jht1493/sketches/S47diDJcd)<!-- 2024-11-07T15:20:17.766Z -->  
+[17.0 keyPressed notes 1QAZ](https://editor.p5js.org/jht1493/sketches/k4vWzBgN9)<!-- 2024-11-07T15:18:53.035Z -->  
 [17.1\_playMode ui](https://editor.p5js.org/jht1493/sketches/_LdMqTjgu)<!-- 2021-11-10T16:47:56.154Z -->  
 [17.1\_playMode ui debug](https://editor.p5js.org/jht1493/sketches/iihgsmwRS)<!-- 2021-11-10T16:49:34.395Z -->  
 [17.1\_playMode ui debug loop](https://editor.p5js.org/jht1493/sketches/7Y0_IaFhH)<!-- 2021-11-10T09:27:56.625Z -->  
@@ -907,11 +909,9 @@
 [Kaleidoscope-Stella copy](https://editor.p5js.org/jht1493/sketches/QxnG0Kjs3)<!-- 2022-10-27T00:24:36.516Z -->  
 [keyDown](https://editor.p5js.org/jht1493/sketches/XvtlRAbOd)<!-- 2020-11-15T21:51:58.801Z -->  
 [keyDown bounds](https://editor.p5js.org/jht1493/sketches/_9e7S9L0a)<!-- 2020-11-15T22:01:27.406Z -->  
-[keyPressed 1QAZ FFT](https://editor.p5js.org/jht1493/sketches/S47diDJcd)<!-- 2022-11-16T14:09:33.746Z -->  
 [keyPressed 1QAZ FFT copy](https://editor.p5js.org/jht1493/sketches/bJt-NPhOo)<!-- 2022-11-29T17:09:34.869Z -->  
 [keyPressed keyReleased](https://editor.p5js.org/jht1493/sketches/EVwWL2fIR)<!-- 2020-11-16T02:17:43.546Z -->  
 [keyPressed notes](https://editor.p5js.org/jht1493/sketches/i7x3A6lC7)<!-- 2020-11-16T03:24:39.041Z -->  
-[keyPressed notes 1QAZ](https://editor.p5js.org/jht1493/sketches/k4vWzBgN9)<!-- 2020-11-16T23:46:57.896Z -->  
 [keyPressed notes 1QAZ a\_fading](https://editor.p5js.org/jht1493/sketches/yJte0nh5w)<!-- 2020-11-16T23:42:38.539Z -->  
 [keyPressed notes 1QAZ midi](https://editor.p5js.org/jht1493/sketches/gzgR2c2mz)<!-- 2020-11-17T01:45:10.572Z -->  
 [Kindhearted yak](https://editor.p5js.org/jht1493/sketches/MH2S6Ot3P)<!-- 2022-10-25T09:33:52.022Z -->  

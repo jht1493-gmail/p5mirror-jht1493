@@ -1,5 +1,5 @@
 # jht1493 p5projects
-[1386 sketches 2024-03-24T18:02:01.436Z](./downloads/gen/sketches_recent.md)
+[1386 sketches 2024-11-07T15:20:17.766Z](./downloads/gen/sketches_recent.md)
 
 - [1.1 draw\_rect-WJFtFBmnK](./p5projects/1.1%20draw_rect-WJFtFBmnK) [[p5js](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)]
 - [1.1 draw\_rect\_alpha-6mrwOv4RD](./p5projects/1.1%20draw_rect_alpha-6mrwOv4RD) [[p5js](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)]
@@ -79,6 +79,8 @@
 - [11.7\_p5.js\_slitscan-X-s9xTI9b](./p5projects/11.7_p5.js_slitscan-X-s9xTI9b) [[p5js](https://editor.p5js.org/jht1493/sketches/X-s9xTI9b)]
 - [11.8 Video Effects with Seriously.js - blur-khSNfD2jM](./p5projects/11.8%20Video%20Effects%20with%20Seriously.js%20-%20blur-khSNfD2jM) [[p5js](https://editor.p5js.org/jht1493/sketches/khSNfD2jM)]
 - [11.8 Video Effects with Seriously.js - chroma-lUoSWn7KC](./p5projects/11.8%20Video%20Effects%20with%20Seriously.js%20-%20chroma-lUoSWn7KC) [[p5js](https://editor.p5js.org/jht1493/sketches/lUoSWn7KC)]
+- [17.0 keyPressed 1QAZ FFT-S47diDJcd](./p5projects/17.0%20keyPressed%201QAZ%20FFT-S47diDJcd) [[p5js](https://editor.p5js.org/jht1493/sketches/S47diDJcd)]
+- [17.0 keyPressed notes 1QAZ-k4vWzBgN9](./p5projects/17.0%20keyPressed%20notes%201QAZ-k4vWzBgN9) [[p5js](https://editor.p5js.org/jht1493/sketches/k4vWzBgN9)]
 - [17.1 playMode + this dot debug-A65em8fED](./p5projects/17.1%20playMode%20%2B%20this%20dot%20debug-A65em8fED) [[p5js](https://editor.p5js.org/jht1493/sketches/A65em8fED)]
 - [17.1 playMode + this dot debug2-i0zHJF1nA](./p5projects/17.1%20playMode%20%2B%20this%20dot%20debug2-i0zHJF1nA) [[p5js](https://editor.p5js.org/jht1493/sketches/i0zHJF1nA)]
 - [17.1 playMode copy-2YjUP5cer](./p5projects/17.1%20playMode%20copy-2YjUP5cer) [[p5js](https://editor.p5js.org/jht1493/sketches/2YjUP5cer)]
@@ -1104,11 +1106,9 @@
 - [keyDown bounds-\_9e7S9L0a](./p5projects/keyDown%20bounds-_9e7S9L0a) [[p5js](https://editor.p5js.org/jht1493/sketches/_9e7S9L0a)]
 - [keyDown-XvtlRAbOd](./p5projects/keyDown-XvtlRAbOd) [[p5js](https://editor.p5js.org/jht1493/sketches/XvtlRAbOd)]
 - [keyPressed 1QAZ FFT copy-bJt-NPhOo](./p5projects/keyPressed%201QAZ%20FFT%20copy-bJt-NPhOo) [[p5js](https://editor.p5js.org/jht1493/sketches/bJt-NPhOo)]
-- [keyPressed 1QAZ FFT-S47diDJcd](./p5projects/keyPressed%201QAZ%20FFT-S47diDJcd) [[p5js](https://editor.p5js.org/jht1493/sketches/S47diDJcd)]
 - [keyPressed keyReleased-EVwWL2fIR](./p5projects/keyPressed%20keyReleased-EVwWL2fIR) [[p5js](https://editor.p5js.org/jht1493/sketches/EVwWL2fIR)]
 - [keyPressed notes 1QAZ a\_fading-yJte0nh5w](./p5projects/keyPressed%20notes%201QAZ%20a_fading-yJte0nh5w) [[p5js](https://editor.p5js.org/jht1493/sketches/yJte0nh5w)]
 - [keyPressed notes 1QAZ midi-gzgR2c2mz](./p5projects/keyPressed%20notes%201QAZ%20midi-gzgR2c2mz) [[p5js](https://editor.p5js.org/jht1493/sketches/gzgR2c2mz)]
-- [keyPressed notes 1QAZ-k4vWzBgN9](./p5projects/keyPressed%20notes%201QAZ-k4vWzBgN9) [[p5js](https://editor.p5js.org/jht1493/sketches/k4vWzBgN9)]
 - [keyPressed notes-i7x3A6lC7](./p5projects/keyPressed%20notes-i7x3A6lC7) [[p5js](https://editor.p5js.org/jht1493/sketches/i7x3A6lC7)]
 - [knob copy-nN7VJCdLZ](./p5projects/knob%20copy-nN7VJCdLZ) [[p5js](https://editor.p5js.org/jht1493/sketches/nN7VJCdLZ)]
 - [left to right sin-jMsiDbVI9](./p5projects/left%20to%20right%20sin-jMsiDbVI9) [[p5js](https://editor.p5js.org/jht1493/sketches/jMsiDbVI9)]
